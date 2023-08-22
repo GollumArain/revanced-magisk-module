@@ -1,1 +1,26 @@
-[]
+        
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "YouTube"
+      },
+      {
+        "key": "iconPath",
+        "value": "C:\\Users\\Gollum\\Downloads\\icons8-youtube-material-sharp\\Android"
+      }
+    ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "#000"
+      }
+    ]
+  }
+]
+        
